@@ -10,8 +10,10 @@ description: Prvá kpitola knihy, všeobecné základy
 
 Základom  technologických tvářecích pochodů jsou velké plastické deformace, tj. deformace, při nichž se trvale mění tvar a rozměry tělesa. Děje, které při tom probíhají, mají svou mechanickou a fyzikální podstatu a mohou být doprovázeny i změnami chemické povahy. Tvar a rozměry tvářeného tělesa se mění účinkem vnějších sil působících na zpracovávaný kov prostřednictvím pracovních ploch nástrojů. Jde tedy především o děj mechanické povahy, projevující se různými stavy napjatosti a deformace v tvářeném objemu tělesa ovlivněný vnějším třením na dotykovýcb plochách materiálu a nástroje. Protože kovy a slitiny jsou krystalické látky, mají pro studium velkých plastických deformací při technologických tvářecích pochodech velký význam i fyzikální děje, jež mají vliv na strukturální změny, a tím i na fyzikální a mechanické vlastnosti.
 
-Nauka o plastičnosti krystalických látek, jež tvoří širší vědní základ teorie tvářecích pochodú, má v podstatě dvojí zaměření:\
-a) Mechanickomatematické zaměrení, které je náplní nauky o plasticitě kovů a předpokládá kov jako izotropní a homogenní krystalickou látku. Všímá si stavu napjatosti a deformace a rychlosti deformace ve vztahu k vnějším silám. Hledá matematické zákonitosti tvarových změn tělesa a odvozuje vztahy a rovnice pro výpočet napětí, velikosti sil a energie, potřebných pro tvárecí procesy.\
+Nauka o plastičnosti krystalických látek, jež tvoří širší vědní základ teorie tvářecích pochodú, má v podstatě dvojí zaměření:
+\
+a) Mechanickomatematické zaměrení, které je náplní nauky o plasticitě kovů a předpokládá kov jako izotropní a homogenní krystalickou látku. Všímá si stavu napjatosti a deformace a rychlosti deformace ve vztahu k vnějším silám. Hledá matematické zákonitosti tvarových změn tělesa a odvozuje vztahy a rovnice pro výpočet napětí, velikosti sil a energie, potřebných pro tvárecí procesy.
+\
 b) Fyzikální zaměření nauky o plastičnosti zkoumá fyzikální povahu plastických deformaci. Zabývá se objasněním vratných (tj. pružných) a nevratných (tj. plastických) deformaci z fyzikálního hlediska. Zkoumá jevy plastického i viskózně plastického toku kovủ a vlivy vnějšiho prostředí, např. vlivy vnějšího tření. Zvláštní význam má zkoumání tepelných efektủ plastické deformace a s tím souvisící strukturální změny, jakož i změny mechanických vlastností tváreného materiálu.
 
 S fyzikálním zkoumáním plastických deformací úzce souvisí i zkoumání jevů chemické povahy, které za určitých okolností doprovázejí trvalé deformace kovů. Proto je mořno hovořit tě̌ o fyzikálně chemickém zaměrení nauky o plastičnosti.
@@ -52,9 +54,7 @@ Velké plastické deformace, které nastávají při technologických tvářecí
 
 Z uvedených důvodů je teplota důležitým dělítkem technologických tvářecích pochodů. Uzdravování rozrušené krystalové mřížky a opětovný růst krystalových zrn, která byla tvářením zdeformována, nazývá se rekrystalizace. Nově vzniklá struktura je strukturou původní fáze před tvářením. Při rekrystalizaci tedy nenastávají fázové přeměny.
 
-Rekrystalizace nastává postupně v určitém intervalu teplot, úplná rekrystalizace pak při určité teplotě, kterou označujeme jako teplotu rekrystalizační. Rekrystalizační teplota ( T\_{\mathrm{r\}} ) je u různých kovů a slitin různě vysoká. Bylo zjištěno, že závisí na teplotě tavení ( T\_{\mathrm{t\}} ). U většiny kovů se rovná čtyřem desetinám teploty tavení, měřené ve&#x20;
-
-The equation $E = mc^2$ shows the relationship between energy and mass.
+Rekrystalizace nastává postupně v určitém intervalu teplot, úplná rekrystalizace pak při určité teplotě, kterou označujeme jako teplotu rekrystalizační. Rekrystalizační teplota ( T\_{\mathrm{r\}} ) je u různých kovů a slitin různě vysoká. Bylo zjištěno, že závisí na teplotě tavení ( T\_{\mathrm{t\}} ). U většiny kovů se rovná čtyřem desetinám teploty tavení, měřené v $K$.
 
 Podle toho, zda tvářecí proces probíhá pod rekrystalizační teplotou nebo nad ní, můžeme tvářecí pochody rozdělit na tváření za studena a tváření za tepla.
 
@@ -80,10 +80,12 @@ Podle toho, jaké množství vyvinutého tepla se spotřebuje na zvýšení tepl
 
 a) Tvárecí procesy izotermické
 
-Vyznačují se tím, že se všechno vyvinuté teplo odvádí do okoli, takže teplota tváfeného kovu se nemění, zûstává stálou.\
+Vyznačují se tím, že se všechno vyvinuté teplo odvádí do okoli, takže teplota tváfeného kovu se nemění, zûstává stálou.
+\
 b) Tvárecí procesy adiabatické
 
-U těchto procesů veškeré vyvinuté teplo zůstane y tvářeném kovu a spotłebuse se na zvýšení jeho teploty.\
+U těchto procesů veškeré vyvinuté teplo zůstane y tvářeném kovu a spotłebuse se na zvýšení jeho teploty.
+\
 c) Tvářecí procesy polytropické
 
 Vyvinuté teplo se zčásti odvede do okolí a zčásti zústane v tváfeném kovu. Proto jsou i tyto procesy doprovázeny zvýšením teploty, ale ne tak výrazným jako u adiabatického tváření.
@@ -102,21 +104,24 @@ Vznik trhlin na povrchu tvářeného materiálu, vázaný na největší možnou
 
 Stav napjatosti, vyjádřený všestranným tlakovým napětím, lze vyvolat tehdy, když je kov obklopen ze všech stran nástrojem. Celý jeho povrch je vystaven účinku tlaku nástrojü. To má za následek, že se zvětší celkový odpor vnějšího tření. Kromě toho se po celou dobu působení nástroje musí překonávat i pružné deformace materiálu. Tyto vlivy zhoršují stupeň využití vynaložené práce na vlastní tvářecí proces a energetická účinnost téchto procesú se zhoršuje.
 
-Pro všeobecnou klasifikaci technologických tvářecích pochodů je rozhodujícím kritériem, jak při určité teplotě a rychlosti deformace může být velký stupeň deformace bez nebezpeči vzniku trhlin na povrchu tvářeného tělesa. Použijeme-li pro takovouto klasifikaci uvedeného poměru volného povrchu tvářeného materiálu a povrchu, který je ve styku s nástrojem, mŭžeme různé způsoby technologických tvářecích pochodů za tepla rozčlenit do tří skupin:\
+Pro všeobecnou klasifikaci technologických tvářecích pochodů je rozhodujícím kritériem, jak při určité teplotě a rychlosti deformace může být velký stupeň deformace bez nebezpeči vzniku trhlin na povrchu tvářeného tělesa. Použijeme-li pro takovouto klasifikaci uvedeného poměru volného povrchu tvářeného materiálu a povrchu, který je ve styku s nástrojem, mŭžeme různé způsoby technologických tvářecích pochodů za tepla rozčlenit do tří skupin:
+\
 a) První skupinu tvoří způsoby tváření, u nichž je volný povrch tvářeného objemu kovu vêttší než povrch, který je v dotyku s nástrojem.
 
 Tyto zpüsoby tváření se vyznačují tím, že střední specifický tlak mezi nástrojem a materiálem je ve srovnání s velikostí vyvolaných napětí malý. Na volném povrchu vznikají výsledná tahová normálná napětí, jejichž velikost závisí na velikosti deformace,
 
 Proto je k vyvolání určitého stupně deformace třeba malých vnějších sil, ale možný nejvêtsís stupeň deformace je omezen nebezpečím vzniku trhlin. Při velkých deformacích mohou normálná tahová napětí na volném povrchu dosáhnout tak velkých hodnot, ze se poruší soudrănost materiálu.
 
-Príkledem têchto tvárecích pochodů je volné kování vysokých výkovků na plochých kovadlech\
+Príkledem têchto tvárecích pochodů je volné kování vysokých výkovků na plochých kovadlech
+\
 b) Druhou skupinu tvoři způsoby tváreni, u nichž je volný povrch tvářeného objemu phibližně stejně velký jako povrch, který je v dotyku s nástrojem.
 
 Pti tomto zpúsobu tváření je střední specifický tlak mezi nástrojem a tvářeným materiálem ve srovnáni s velikostí vyvolaných napétí velký. Na volném povrchu tváreného objemu vanikaji normálná tahová napétú, ale nedosahuji velkých hodnot.
 
 K vyvolání určitého stupně deformace je v tomto případě treba velkých vnějísich sil, ale možný největší stupeň deformace je velký, větší než u první skupiny tvátecích pochodú. Tvářecí zařízení však musí být mohutnější.
 
-Příkladem těchto tvářecích pochodů je volné kování v tvarových kovadlech, nebo zápustkové kování v otevřených zápustkách.\
+Příkladem těchto tvářecích pochodů je volné kování v tvarových kovadlech, nebo zápustkové kování v otevřených zápustkách.
+\
 c) Třetí skupinu tvoří způsoby tváření, u nichž je volný povrch tváfeného objemu menší než povrch, který je v dotyku s nástrojem (v krajním případě je celý povrch tvắeného objemu ve styku s pracovními plochami nástroje).
 
 U těchto způsobů tváření je střední specifický tlak na dotykové ploše mezi materiálem a nástrojem ve srovnání s velikostí vyvolaných napětí značně velký. Na volném povrchu tvářeného materiálu vznikají též normálná tahová napětí, ale nedosahují velkých hodnot a nemohou být zdrojem trhlin.
