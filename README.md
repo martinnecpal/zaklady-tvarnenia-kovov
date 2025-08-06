@@ -53,9 +53,11 @@ Velké plastické deformace, které nastávají při technologických tvářecí
 Z uvedených důvodů je teplota důležitým dělítkem technologických tvářecích pochodů. Uzdravování rozrušené krystalové mřížky a opětovný růst krystalových zrn, která byla tvářením zdeformována, nazývá se rekrystalizace. Nově vzniklá struktura je strukturou původní fáze před tvářením. Při rekrystalizaci tedy nenastávají fázové přeměny.
 
 Rekrystalizace nastává postupně v určitém intervalu teplot, úplná rekrystalizace pak při určité teplotě, kterou označujeme jako teplotu rekrystalizační. Rekrystalizační teplota $ T\_{\mathrm{r\}} $ je u různých kovů a slitin různě vysoká. Bylo zjištěno, že závisí na teplotě tavení 
+
 $$
 T\_{\mathrm{t\}}
 $$
+
 . U většiny kovů se rovná čtyřem desetinám teploty tavení, měřené v&#x20;
 
 
