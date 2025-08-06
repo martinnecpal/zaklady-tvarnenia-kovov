@@ -55,6 +55,10 @@ Z uvedených důvodů je teplota důležitým dělítkem technologických tvář
 Rekrystalizace nastává postupně v určitém intervalu teplot, úplná rekrystalizace pak při určité teplotě, kterou označujeme jako teplotu rekrystalizační. Rekrystalizační teplota $ T\_{\mathrm{r\}} $ je u různých kovů a slitin různě vysoká. Bylo zjištěno, že závisí na teplotě tavení&#x20;
 
 $$
+fsdfsdf(sdfx) = xsd d*fd e^{2 pi i \xi x}_dufhjdf sum{asd}
+$$
+
+$$
 T\_{\mathrm{t\}}
 $$
 
