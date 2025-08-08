@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+
+# GitBook build files
+_book/
+_bookdown/
+.gitbook/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+
+# OS-specific
+.idea/
+.vscode/
+
+# Build output from GitBook plugins
+*.pdf
+*.epub
+*.mobi
