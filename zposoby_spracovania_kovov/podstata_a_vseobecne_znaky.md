@@ -1,10 +1,6 @@
 ---
-description: Prvá kpitola knihy, všeobecné základy
+description: 1 kpitola knihy, 1 podkapytola "Podstata a všeobecné základy technologických tvárniacích pochodov
 ---
-
-# Zpôsoby zpracovania kovov tvárnením a ich kvalifikácia
-
-## Podstata a obecné znaky technologických tvárniacích procesov
 
 ### Mechanická a fyzikálna povaha platických deformácií
 
