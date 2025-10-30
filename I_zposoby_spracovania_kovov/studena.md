@@ -1,0 +1,5 @@
+#### TVÁŘENÍ ZA STUDENA
+
+Tváření za studena probíhá při teplotách nižších, než je teplota rekrystalizační. Protože rekrystalizace nastává ve skutečnosti v určitém pásmu teplot, považujeme za tváření za studena ty procesy, které proběhnou při teplotách nižších než 0,3 . ( T\_{\text {t \}} ). Struktura tváreného kovu je deformována, což má za následek změnu mechanických vlastností. Významným znakem tohoto způsobu tváření je zpevnění kovu. Kromě změny mechanických vlastností, zvýšení meze pevnosti a průtažnosti a snížení prodloužení a zúžení se projevují i změny různých fyzikálních vlastností, např. magnetických a elektrických. Rozrušená struktura je usměrněna ve směru tváření a označuje se jako textura.
+
+Se změnou mechanických vlastností kovu, s jeho zpevněním, je spojena i změna plastických vlastností. Plastické vlastnosti kovu tvářeného za studena se zhoršují. Při velkém stupni tváření se zhorší tak, že kov nelze dále za studena tvářet. Pak je nutno ho vyžíhat, při čemž nastává uzdravení krystalové mřížky. Tím se opět získává schopnost k dalšímu tváření. Pevnost kovu klesne, a tím se zmenší jeho odpor proti plastické deformaci.
