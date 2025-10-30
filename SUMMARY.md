@@ -89,4 +89,3 @@
         * [Rozbor podmínek plastičnosti podle hypotézy stálosti intenzity napětí]()
     * [Porovnání obou hypotéz plastičnosti]()
     * [Podmínka viskózního tečení kovů]()
-
