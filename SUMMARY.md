@@ -17,7 +17,7 @@
 ## II Napätie a deformácia pri plastickom tvárnení
 
 * [Zvláštnosti mechaniky plastických telies](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/README.md)
-  * [Page 1](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/page-1.md)
+  * [Vonkajšie sily pri plastických deformáciách](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/page-1.md)
 * [Stav napätosti tvárneného telesa](stav-napatosti-tvarneneho-telesa/README.md)
   * [Page 3](stav-napatosti-tvarneneho-telesa/page-3.md)
 * [Napätie v oktaedsických rovinách](napatie-v-oktaedsickych-rovinach.md)
