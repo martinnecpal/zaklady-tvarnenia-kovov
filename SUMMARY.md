@@ -22,3 +22,5 @@
   * [Page 3](stav-napatosti-tvarneneho-telesa/page-3.md)
 * [Napätie v oktaedsických rovinách](napatie-v-oktaedsickych-rovinach.md)
 * [Tenzotové vyjadrenie stavu napätosti](tenzotove-vyjadrenie-stavu-napatosti.md)
+
+## III Mechanické podmienky plastičnosti
