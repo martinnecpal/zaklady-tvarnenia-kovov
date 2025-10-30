@@ -14,7 +14,7 @@
 
 ## Napätie a deformácia pri plastickom tvárnení
 
-* [Zvláštnosti mechaniky plastických telies](napatie_a_def/zvlastnosti_mech/vonkajsie_sily.md)
+* [Zvláštnosti mechaniky plastických telies](ii_napatie_a_def/README.md)
   * [Vnější síly při plastických deformacích](./)
   * [Působení vnějších sil na tvářený objem tělesa](./)
   * [Plastická deformace ideálních a reálných materiálů](./)
