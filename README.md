@@ -1,20 +1,20 @@
-# Table of contents
+# Obsah
 
 ## Zpôsoby zpracovania kovov tvárnením a ich kvalifikácia
 
-* [Podstata a všeobecné znaky technologických tvárniacích pochodov](i_zposoby_spracovania_kovov/podstata_a_vseobecne_znaky/)
-  * [Mechanická a fyzikální povaha plastických deformací](i_zposoby_spracovania_kovov/podstata_a_vseobecne_znaky/mechanicka_a_fyzikalna_povaha.md)
-  * [Všeobecné znaky technologických tvářecích pochodů](i_zposoby_spracovania_kovov/podstata_a_vseobecne_znaky/vseobecne_znaky.md)
-* [Klasifikace technologických tvářecích pochodů](i_zposoby_spracovania_kovov/klasifikacia/)
-  * [Klasifikace tvářecích pochodů podle teploty a tepelného efektu](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/)
-    * [Tváření za studena](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/studena.md)
-    * [Tváření za tepla](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/tepla.md)
-    * [Tepelný efekt tvářecího procesu](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/tepelny_efekt.md)
-  * [Klasifikace tvářecích pochodů za tepla podle možného stupně deformace](i_zposoby_spracovania_kovov/klasifikacia/klasif_podla_stupna_def.md)
+* [Podstata a všeobecné znaky technologických tvárniacích pochodov](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/)
+  * [Mechanická a fyzikální povaha plastických deformací](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/mechanicka_a_fyzikalna_povaha.md)
+  * [Všeobecné znaky technologických tvářecích pochodů](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/vseobecne_znaky.md)
+* [Klasifikace technologických tvářecích pochodů](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/)
+  * [Klasifikace tvářecích pochodů podle teploty a tepelného efektu](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/)
+    * [Tváření za studena](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/studena.md)
+    * [Tváření za tepla](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/tepla.md)
+    * [Tepelný efekt tvářecího procesu](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/tepelny_efekt.md)
+  * [Klasifikace tvářecích pochodů za tepla podle možného stupně deformace](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasif_podla_stupna_def.md)
 
 ## Napätie a deformácia pri plastickom tvárnení
 
-* [Zvláštnosti mechaniky plastických telies](ii_napatie_a_def/README.md)
+* [Zvláštnosti mechaniky plastických telies](broken-reference)
   * [Vnější síly při plastických deformacích](./)
   * [Působení vnějších sil na tvářený objem tělesa](./)
   * [Plastická deformace ideálních a reálných materiálů](./)

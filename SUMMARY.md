@@ -1,15 +1,27 @@
 # Table of contents
 
 * [Obsah](README.md)
-* [I Zpôsoby spracovania kovov tvárnením a ich kvalifikácia](i_zposoby_spracovania_kovov/README.md)
-  * [Podstata a všeobecné znaky technologických tvárniacích pochodov](i_zposoby_spracovania_kovov/podstata_a_vseobecne_znaky/README.md)
-    * [Mechanická a fyzikálna povaha platických deformácií](i_zposoby_spracovania_kovov/podstata_a_vseobecne_znaky/mechanicka_a_fyzikalna_povaha.md)
-    * [Všeobecné znaky technologických tvárniacich pochodov](i_zposoby_spracovania_kovov/podstata_a_vseobecne_znaky/vseobecne_znaky.md)
-  * [Klasifikácia technologických tvárniacich pochodov](i_zposoby_spracovania_kovov/klasifikacia/README.md)
-    * [Klasifikácia tvárniacich pochodov podľa teploty a tepelného efektu](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/README.md)
-      * [Tvárnenie za studena](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/studena.md)
-      * [Tvárnenie za tepla](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/tepla.md)
-      * [Teplený efekt tvárniaceho procesu](i_zposoby_spracovania_kovov/klasifikacia/klasifikacia_tepolota/tepelny_efekt.md)
-    * [Klasifikácia tvárniacich pochodov za tepla podla možného stupňa deformácie](i_zposoby_spracovania_kovov/klasifikacia/klasif_podla_stupna_def.md)
-* [II Napätie a deformácie pri plastickom tvárnení](ii_napatie_a_def/README.md)
-  * [Zvláštnosti mechaniky plastických telies](II_napatie_a_def/zvlastnosti_mechaniky_plast.md)
+
+## I Zpôsoby spracovania kovov tvárnením a ich kvalifikácia
+
+* [Podstata a všeobecné znaky technologických tvárniacích pochodov](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/README.md)
+  * [Mechanická a fyzikálna povaha platických deformácií](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/mechanicka_a_fyzikalna_povaha.md)
+  * [Všeobecné znaky technologických tvárniacich pochodov](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/vseobecne_znaky.md)
+* [Klasifikácia technologických tvárniacich pochodov](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/README.md)
+  * [Klasifikácia tvárniacich pochodov podľa teploty a tepelného efektu](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/README.md)
+    * [Tvárnenie za studena](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/studena.md)
+    * [Tvárnenie za tepla](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/tepla.md)
+    * [Teplený efekt tvárniaceho procesu](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasifikacia_tepolota/tepelny_efekt.md)
+  * [Klasifikácia tvárniacich pochodov za tepla podla možného stupňa deformácie](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/klasifikacia/klasif_podla_stupna_def.md)
+
+## II Napätie a deformácia pri plastickom tvárnení
+
+* [Zvláštnosti mechaniky plastických telies](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/README.md)
+  * [Page 1](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/page-1.md)
+
+***
+
+* [Stav napätosti tvárneného telesa](stav-napatosti-tvarneneho-telesa/README.md)
+  * [Page 3](stav-napatosti-tvarneneho-telesa/page-3.md)
+* [Napätie v oktaedsických rovinách](napatie-v-oktaedsickych-rovinach.md)
+* [Tenzotové vyjadrenie stavu napätosti](tenzotove-vyjadrenie-stavu-napatosti.md)
