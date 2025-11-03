@@ -1,2 +1,0 @@
-# Tenzotové vyjadrenie stavu napätosti
-

@@ -1,2 +1,0 @@
-# Napätie v oktaedsických rovinách
-
