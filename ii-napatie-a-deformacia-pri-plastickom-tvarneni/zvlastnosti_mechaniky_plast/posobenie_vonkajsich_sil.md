@@ -7,4 +7,4 @@ Tak napríklad tlakový účinok sily $$P$$ (obr.3) navalček bude iný, ak pôs
 <figure><img src="../../.gitbook/assets/posunustie_dvojica.webp" alt=""><figcaption></figcaption></figure>
 <p align="center">Obr. 4. Posunutie pôsobišta silovej dvojice</p>
 
-Pri jej pôsobení v bode $$O_2$$
+Pri jej pôsobení v bode $$O_2$$ 
