@@ -2,7 +2,7 @@
 
 * [Obsah](README.md)
 
-## I Zpôsoby spracovania kovov tvárnením a ich kvalifikácia
+## I Spôsoby spracovania kovov tvárnením a ich kvalifikácia
 
 * [Podstata a všeobecné znaky technologických tvárniacích pochodov](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/README.md)
   * [Mechanická a fyzikálna povaha platických deformácií](i-zposoby-spracovania-kovov-tvarnenim-a-ich-kvalifikacia/podstata_a_vseobecne_znaky/mechanicka_a_fyzikalna_povaha.md)
