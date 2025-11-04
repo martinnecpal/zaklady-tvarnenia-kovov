@@ -1,5 +1,9 @@
-## KLASIFIKACE TECHNOLOGICKÝCH TVÁRECÍCH POCHODÚ
+## Klasifikácia technologických tvárniacich pochodov
 
-Technologické tvářecí pochody při zpracování kovů je možno členit a hodnotit z rưzných hledisek. Jedním z obvyklých dělítek je teplota, při níž tvářecí pochody probíhají. Jiným kritériem je tepelný efekt tvárecího pochodu. Z teoretického hlediska je též ávažné členěni tvářecích pochodů podle možného stupně dosažitelné deformace.
-
-V technické praxi je obvyklé členění těchto pochodů podle toho, jakým způsobem púsobí vnějši sily na tvárený materiál. Rozeznáváme pak kování (volné a zápustkové), valcování (podélné a přlčné), tažení v průvlacích, hluboké tažení, protlačování, lisování, ohybání atp. ( K ) těmto zpúsobúm se řadí tvárení velkými energiemi a explozívní tváření.
+Technologické tvárniace procesy v spracovaní kovov možno klasifikovať a hodnotiť z rôznych hľadísk. Jedna bežná klasifikácia je založená na teplote, pri ktorej prebiehajú tvárniace procesy. Ďalším kritériom je tepelný účinok tvárniaceho procesu. Z teoretického hľadiska je tiež dôležité klasifikovať tvárniace procesy podľa možného stupňa deformácie, ktorý možno dosiahnuť.\
+V technickej praxi je bežné klasifikovať tieto procesy podľa toho, ako vonkajšie sily pôsobia na formovaný materiál. Rozlišujeme medzi kovaním (voľným a uzavretým), valcovaním (podĺžnym a priečnym), ťahaním v lisoch, hlbokým ťahaním, extrudovaním, lisovaním, ohýbaním atď. Tieto metódy zahŕňajú tvárnenie s vysokou energiou a tvárnenie výbušninami.
+  * [Klasifikace tvářecích pochodů podle teploty a tepelného efektu](klasifikacia_tepolota/README.md)
+    * [Tváření za studena](klasifikacia_tepolota/studena.md)
+    * [Tváření za tepla](klasifikacia_tepolota/tepla.md)
+    * [Tepelný efekt tvářecího procesu](klasifikacia_tepolota/tepelny_efekt.md)
+  * [Klasifikace tvářecích pochodů za tepla podle možného stupně deformace](klasif_podla_stupna_def.md)
