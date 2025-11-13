@@ -1,5 +1,6 @@
 ---
 lang: sk-SK
+kapitola: 2.1.1 
 ---
 
 # Vonkajšie sily pri plastických deformáciách
