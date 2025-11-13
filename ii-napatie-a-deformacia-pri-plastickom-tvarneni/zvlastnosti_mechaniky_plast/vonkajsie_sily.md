@@ -11,13 +11,12 @@ Pri technologických tvárniacích pochodoch, ktorých základom sú plastické,
 <p align="center">Obr. 2. Vonkajšie sily pri pechovaní v dutine lisovniku</p>
 
 Z hľadiska účinku vonkajších síľ vyvodzovaných nástrojom s síľ vonkajšiewho trenia na dotykovaj ploche rozdelujeme pri deformačných procesoch vokajšie sily na:\
-a) aktivní vnější síly, které jsou primárními silami vyvolanými tahem nebo tlakem (nebo úderem) nástroje;\
-b) pasivní vnější síly vyvolané třením na dotykové ploše mezi materiálem a nástrojem.\
-Tyto odvozené, sekundární síly mají též aktivní účinek na tvářené těleso.
-Aktivní nebo pasivní účinek sil vnějšího tření má vliv na průběh plastické deformace. Je to zřejmo z příkladů dvou různých způsobů pěchování v uzavřené dutině. Na obrázku 1 je znázorněn případ pěchování v pevné matrici. Lisovník pěchuje výchozí válcovitý polotovar soudečkovitého tvaru. Pěchovaný materiál vyplňuje dutinu matrice a je vystaven jejímu kolmému tlaku $$N$$. Tento tlak na dotykové ploše vyvolá sílu tření $$F = \mu . N$$($$\mu$$ je součinitel vnějšího tření), která působí proti relativnímu pohybu materiálu tj. též proti tlaku lisovníku $$P$$ . Z podmínek rovnováhy si ve směru primární aktivní síly $$P$$ plyne:\ 
+a) aktívne vonkajšie sily, ktoré sú primárnymi silami spôsobenými ťahaním alebo tlačením (alebo nárazom) nástroja,\
+b) pasívne vonkajšie sily spôsobené trením na kontaktnej ploche medzi materiálom a nástrojom.\
+Tieto odvodené sekundárne sily majú tiež aktívny vplyv na tvárnené teleso. Aktívny alebo pasívny vplyv vonkajších trecích síl ovplyvňuje priebeh plastického deformovania. To je zrejmé z príkladov dvoch rôznych metód zhutňovania v uzavretej dutine. Obrázok 1 znázorňuje prípad zhutňovania v pevnej matrici. Lis zhutňuje počiatočný valcovitý polotovar v tvare suda. Zhutnený materiál vyplňuje dutinu matrice a je vystavený jej kolmému tlaku $$N$$. Tento tlak na kontaktnej ploche spôsobuje treciu silu $$F = \mu . N$$($$\mu$$ je koeficient vonkajšieho trenia), ktorá pôsobí proti relatívnemu pohybu materiálu, t. j. aj proti tlaku lisu $$P$$ . Z podmienok rovnováhy vyplýva nasledovné v smere primárnej aktívnej sily $$P$$:\ 
 $$P=F+R$$\
-Vnější tření zvětšuje v tomto případě potřebnou primární vnější sílu, uplatňuje se tedy jako odpor.\ 
-Na obrázku 2 je znázorněn jiný způsob pěchování v dutině vytvořené v lisovníku. V tomto případě působí síla tření $$F$$ opět proti relativnímu pohybu tvářeného materiálu, ale smysl tohoto relativního pohybu souhlasí se smyslem primárního účinku lisovníku $$P$$. Potřebná síla na pěchování vyplývá z podmínek rovnováhy:
+V tomto prípade vonkajšie trenie zvyšuje požadovanú primárnu vonkajšiu silu, čím pôsobí ako odpor. 
+Obrázok 2 znázorňuje ďalšiu metódu zhutňovania v dutine vytvorenej v lisovacej forme. V tomto prípade trecia sila $$F$$ opäť pôsobí proti relatívnemu pohybu tvárneného materiálu, ale smer tohto relatívneho pohybu je v súlade so smerom primárneho účinku lisovacej formy $$P$$. Sila potrebná na zhutňovanie sa odvodzuje z podmienok rovnováhy:
 $$P=R-F$$
-Vnější tření zmenšuje v tomto případě potřebnou primární sílu, zmenšuje celkový odpor při plastické deformaci. 
-Různý účinek síly tření má vliv na průběh deformace. V prvním případě se bude přední část dutiny $$\alpha$$ zaplňovat tvářeným materiálem hůře a později než zadní část $$\alpha$$. V druhém případě bude naopak vnější tření napomáhat lepšímu vyplňování části dutiny $$\beta$$ a hůře a později se bude vyplňovat část $$\beta$$.  
+V tomto prípade vonkajšie trenie znižuje požadovanú primárnu silu a znižuje celkový odpor počas plastického deformovania. 
+Rôzne účinky trecej sily ovplyvňujú priebeh deformácie. V prvom prípade bude predná časť dutiny $$\alpha$$ vyplnená tvárneným materiálom pomalšie a neskôr ako zadná časť $$\alpha$$. V druhom prípade naopak vonkajšie trenie prispeje k lepšiemu vyplneniu časti dutiny $$\beta$$ a časť $$\beta$$ bude vyplnená pomalšie a neskôr.  
