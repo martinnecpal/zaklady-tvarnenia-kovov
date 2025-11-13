@@ -1,5 +1,5 @@
 ## Zvláštnosti mechaniky plastických telies
 
-  * [Vonkajšie sily pri plastických deformáciách]()
-  * [Pôsobenie vonkajších síl na tvárnený objem]()  
-  * [Plastická deformácia ideálnych a reálnych materiálov]()
+  * [Vonkajšie sily pri plastických deformáciách](vonkajsie_sily.md)
+  * [Pôsobenie vonkajších síl na tvárnený objem](posobenie_vonkajsich_sil.md)  
+  * [Plastická deformácia ideálnych a reálnych materiálov](plasticka_def_ideal_real.md)
