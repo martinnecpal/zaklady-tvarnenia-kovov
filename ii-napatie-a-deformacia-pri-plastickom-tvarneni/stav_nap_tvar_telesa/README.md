@@ -1,0 +1,1 @@
+## Stav napätosti tvárneného telesa
