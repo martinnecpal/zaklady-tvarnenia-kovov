@@ -3,6 +3,8 @@ lang: sk-SK
 kapitola: 2.1.2 
 ---
 
+# Pôsobenie vonkajších síľ na tvárnený objem telesa
+
 Pri tvárnení v oblasti plastického deformovania závisí účinok vonkajších síl od miesta ich pôsobenia. V mechanike pevných, dokonale tuhých telies môžeme posunúť bod pôsobenia vonkajšej sily v smere jej vektora a účinok na teleso zostane rovnaký. Pri objektoch v plastickom stave však tento bod pôsobenia nemožno posunúť v smere vektora, ani nemožno nahradiť účinok viacerých síl účinkom ich výslednice. Deformačný účinok výslednice nie je rovnaký ako účinok jednotlivých zložiek.  
 Tak napríklad tlakový účinok sily $$P$$ (obr.3) na valček bude iný, ak pôsobí táto sila v bode $$O_2$$ rezu $$\xi-\xi$$, ako keď pôsobí v bode $$O_1$$ na čelnej ploche valčeku.
 
