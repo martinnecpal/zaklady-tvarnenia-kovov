@@ -13,7 +13,7 @@ Je preto zrejmé, že pri výpočte plastických deformácií je potrebné do v�
 Pri riešení problémov s tvárnením kovov vychádzame v našich teoretických úvahách z ideálneho tuhého telesa, ktorým môže byť:\
 a) ideálne pružné,\
 b) ideálne viskózne,\
-c) ideálne plastické.\
+c) ideálne plastické.
 
 **U ideálne pružného telesa** vznikajú len vratné deformácie. Všetka energia vynaložená na deformáciu sa akumuluje v telese ako potenciálna energia. Preto je teleso po deformácii v stave energetickej nerovnováhy a keď vonkajšia sila prestane pôsobiť, vráti sa do stavu energetickej rovnováhy s minimálnou potenciálnou energiou.
 Predpokladáme, že medzi napätím a deformáciou existuje lineárny funkčný vzťah. Predpokladáme tiež, že deformácia nezávisí od trvania zaťaženia. Je to preto, lebo deformácie sú veľmi malé a materiál sa pohybuje len veľmi málo v porovnaní s rozmermi telesa, dokonca aj s jeho najmenšími rozmermi, ktoré sa menia v dôsledku elastických deformácií.\

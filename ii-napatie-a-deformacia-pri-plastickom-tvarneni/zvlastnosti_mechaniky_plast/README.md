@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 2.1
+------
+
 ## Zvláštnosti mechaniky plastických telies
 
   * [Vonkajšie sily pri plastických deformáciách](vonkajsie_sily.md)
