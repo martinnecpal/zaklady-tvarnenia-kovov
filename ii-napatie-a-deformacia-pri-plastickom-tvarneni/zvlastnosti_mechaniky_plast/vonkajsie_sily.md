@@ -4,7 +4,7 @@ lang: sk-SK
 
 # Vonkajšie sily pri plastických deformáciách
 
-Pri technologických tvárniacich pochodoch, ktorých základom sú plastické, tj. trvalé deformácie sa uplatňujú dva druhy vonkajších síl. Sú  to jednak síly vyvolané nástrojom, jednak sily trenia na dotykovej ploche medzi tváreným kovom a nástrojom. Tieto sily trenia majú u niektorých trecích pochodov, ako napríklad u válcovania, rovnakú aktívnu funkciu ako sily priamo vyvodzované nástrojom. U iných tvárniacich pochodoch, napríklad ťahaní v prievlaku sa uplatňujú sily trenia ako pasívne a k ich prekonaniu je potrebné vyvodiť vonkajšiu ťahovú silu.
+Pri technologických tvárniacich pochodoch, ktorých základom sú plastické, tj. trvalé deformácie sa uplatňujú dva druhy vonkajších síl. Sú  to jednak síly vyvolané nástrojom, jednak sily trenia na dotykovej ploche medzi tvárneným kovom a nástrojom. Tieto sily trenia majú u niektorých trecích pochodov, ako napríklad u válcovania, rovnakú aktívnu funkciu ako sily priamo vyvodzované nástrojom. U iných tvárniacich pochodoch, napríklad ťahaní v prievlaku sa uplatňujú sily trenia ako pasívne a k ich prekonaniu je potrebné vyvodiť vonkajšiu ťahovú silu.
 
 <figure><img src="../../.gitbook/assets/sly_matrica.webp" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ Pri technologických tvárniacich pochodoch, ktorých základom sú plastické, 
 
 <figure><img src="../../.gitbook/assets/sily_dutina.webp" alt=""><figcaption></figcaption></figure>
 
-<p align="center">Obr. 2. Vonkajšie sily pri pechovaní v dutine lisovniku</p>
+<p align="center">Obr. 2. Vonkajšie sily pri pechovaní v dutine lisovníku</p>
 
 Z hľadiska účinku vonkajších síl vyvodzovaných nástrojom a síl vonkajšieho trenia na dotykovej ploche rozdelujeme pri deformačných procesoch vonkajšie sily na:\
 a) aktívne vonkajšie sily, ktoré sú primárnymi silami spôsobenými ťahaním alebo tlačením (alebo nárazom) nástroja,\
