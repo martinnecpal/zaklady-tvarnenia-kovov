@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 1.2.1
+------
+
 ### Klasifikácia tvárniacich pochodov podla teploty a tepelného efektu
 
 Plastické vlastnosti čistých kovov a ich zliatin a miera ich odolnosti voči plastickému deformovaniu sa menia s teplotou. Pri vysokých teplotách sú plastické vlastnosti vo všeobecnosti lepšie a odolnosť voči deformácii je nižšia ako pri normálnych teplotách. To však predpokladá, že štruktúra kovov pri týchto teplotách pozostáva z jednej fázy, napr. gama fázy v oceliach. Ak sú v štruktúre dve fázy, najmä fázy s rôznymi vlastnosťami, tvarovateľnosť takéhoto kovu sa zhoršuje. Napríklad prítomnosť delta feritu v gama fáze železa zhoršuje tvarniteľnosť ocele.\

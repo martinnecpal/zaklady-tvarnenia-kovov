@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 1.2.2
+------
+
 ### Klasifikácia tvárniacich pochodov za tepla podľa možného stup%na deformácie
 
 V technickej praxi zatiaľ nebola vyvinutá žiadna presná metóda klasifikácie rôznych technologických tvárniacich procesov, ktorá by správne posúdila racionalitu týchto procesov z technického a ekonomického hľadiska podľa jednoduchých všeobecných kritérií. Takéto kvalitatívne hodnotenie technologických procesov tvárnenia musí zohľadňovať maximálny dosiahnuteľný stupeň deformácie, ktorý určuje rozsah zmeny tvaru a rozmerov tvárneného polotovaru a samotného výrobku. Musí tiež zohľadňovať špecifické hodnoty tlaku a odolnosti proti deformácii, ktoré sú rozhodujúce pre dimenzovanie a tým aj pre celkovú veľkosť tvárniaceho zariadenia. Je potrebné zohľadniť aj energetickú účinnosť procesu tvárnenia, ktorá vyjadruje, koľko spotrebovanej energie spotrebuje samotný proces tvárnia a koľko sa stratí pri prekonávaní vonkajšieho trenia medzi tvárneným kovom, nástrojom a trenia v mechanizmoch tvárniaceho zariadenia. Ďalším faktorom môže byť napríklad rýchlosť procesu tvárnenia, ktorá je obzvlášť dôležitá pri tvárnení za tepla.\

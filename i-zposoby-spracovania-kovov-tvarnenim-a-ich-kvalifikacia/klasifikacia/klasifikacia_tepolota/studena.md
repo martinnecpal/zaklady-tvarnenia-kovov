@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 1.2.1.1
+------
+
 #### Tvárnenie za studena
 
 Tvárnenie za studena prebieha pri teplotách nižších ako je teplota rekryštalizácie. Keďže rekryštalizácia prebieha v určitom teplotnom rozsahu, za tvárnenie za studena považujeme procesy, ktoré prebiehajú pri teplotách nižších ako $$0,3 * T_1$$. Štruktúra tvárneného kovu sa deformuje, čo má za následok zmenu mechanických vlastností. Dôležitou vlastnosťou tejto metódy Tvárnenia je spevnenie kovu. Okrem zmien mechanických vlastností sa pozoruje aj zvýšenie pevnosti a ťažnosti a zníženie predĺženia a redukcie, ako aj zmeny rôznych fyzikálnych vlastností, ako sú magnetické a elektrické vlastnosti. Narušená štruktúra je vyrovnaná v smere tvárnenia a označuje sa ako textúra.\

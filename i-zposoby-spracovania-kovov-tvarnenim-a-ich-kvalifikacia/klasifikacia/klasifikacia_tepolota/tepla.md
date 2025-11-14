@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 1.2.1.2
+------
+
 #### Tvárnenie za tepla
 
 Tvárnenie za tepla prebieha pri teplotách vyšších ako je teplota rekryštalizácie. Za tvárnenie za tepla považujeme procesy prebiehajúce pri teplotách vyšších ako $$0,7*T_t$$. Pri týchto teplotách je schopnosť kryštálov regenerovať kryštálovú mriežku taká veľká, že súčasne s narušením kryštálových zŕn počas procesu deformácie dochádza k regenerácii kryštálovej mriežky. Rekryštalizácia sa preto vyskytuje počas procesu tvárnenia a kov má preto normálnu kryštalickú štruktúru. Z týchto dôvodov sa jeho mechanické a fyzikálne vlastnosti nemenia. Iba pri tvárnení kovu s odlievanou štruktúrou, ako je napríklad oceľový ingot, sa mení jeho odlievaná štruktúra. Po tvárnení je štruktúra kovu homogénna a jeho mechanické vlastnosti sa zlepšujú.\

@@ -1,4 +1,9 @@
-#### TEPELNÝ EFEKT TVÁRECfHO PROCESU
+---
+lang: sk-SK
+kapitola: 1.2.1.3
+------
+
+#### Tepelný efekt tvárniaceho procesu
 
 Časť energie vynaloženej v procese deformácie sa premieňa na teplo. Množstvo tepla vyprodukovaného týmto spôsobom závisí od rýchlosti deformácie a prirodzenej odolnosti kovu voči deformácii. Toto teplo sa môže úplne rozptýliť do okolia alebo sa akumulovať v tvárnenom kove, čo spôsobuje zvýšenie teploty kovu. Tento tepelný účinok procesu tvárnenia môže byť v závislosti od okolností veľmi významný. Napríklad pri zhutňovaní duralového valca pri redukcii 89,2 % sa jeho teplota zvýšila z normálnej teploty na 317 °C. Pri valcovaní zinku pri teplote $$180^\circ C$$ sa teplota tvarovaného kovu zvýšila na $$285^\circ C$$ až $$295^\circ C$$ s redukciou hrúbky o 50 %..\
 V závislosti od toho, koľko z vyprodukovaného tepla sa používa na zvýšenie teploty tvarovaného kovu, možno rozlíšiť nasledujúce typy tvarovacích procesov:\

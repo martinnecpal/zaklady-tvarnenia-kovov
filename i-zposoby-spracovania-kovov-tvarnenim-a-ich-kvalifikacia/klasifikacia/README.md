@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 1.2
+------
+
 ## Klasifikácia technologických tvárniacich pochodov
 
 Technologické tvárniace procesy v spracovaní kovov možno klasifikovať a hodnotiť z rôznych hľadísk. Jedna bežná klasifikácia je založená na teplote, pri ktorej prebiehajú tvárniace procesy. Ďalším kritériom je tepelný účinok tvárniaceho procesu. Z teoretického hľadiska je tiež dôležité klasifikovať tvárniace procesy podľa možného stupňa deformácie, ktorý možno dosiahnuť.\
