@@ -1,7 +1,7 @@
 ---
 lang: sk-SK
 kapitola: 1.2.1.3
-------
+---
 
 #### Tepelný efekt tvárniaceho procesu
 

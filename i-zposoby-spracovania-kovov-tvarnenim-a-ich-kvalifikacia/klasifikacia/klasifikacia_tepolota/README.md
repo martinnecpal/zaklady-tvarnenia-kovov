@@ -1,7 +1,7 @@
 ---
 lang: sk-SK
 kapitola: 1.2.1
-------
+---
 
 ### Klasifikácia tvárniacich pochodov podla teploty a tepelného efektu
 

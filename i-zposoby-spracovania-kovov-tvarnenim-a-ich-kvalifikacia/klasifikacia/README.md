@@ -1,7 +1,7 @@
 ---
 lang: sk-SK
 kapitola: 1.2
-------
+---
 
 ## Klasifikácia technologických tvárniacich pochodov
 

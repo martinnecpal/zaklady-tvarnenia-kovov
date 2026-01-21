@@ -1,3 +1,8 @@
+---
+lang: sk-SK
+kapitola: 1.1.1
+---
+
 ### Mechanická a fyzikálna povaha platických deformácií
 
 Základom technologických tvárniacich procesov je veľká plastická deformácia, t. j. deformácia, pri ktorej dochádza k trvalej zmene tvaru a rozmerov telesa. Procesy, ktoré pri tom prebiehajú, majú mechanický a fyzikálny základ a môžu byť sprevádzané aj zmenami chemickej povahy. Tvar a rozmery tvarovaného telesa sa menia pod vplyvom vonkajších síl pôsobiacich na spracovávaný kov prostredníctvom pracovných plôch nástrojov. Ide teda predovšetkým o mechanický proces, ktorý sa prejavuje rôznymi stavmi napätia a deformácie v tvárnenom objeme telesa, ovplyvnenými vonkajším trením na kontaktných plochách materiálu a nástroja. Keďže kovy a zliatiny sú kryštalické látky, fyzikálne procesy, ktoré ovplyvňujú štrukturálne zmeny, a tým aj fyzikálne a mechanické vlastnosti, majú tiež veľký význam pre štúdium veľkých plastických deformácií v technologických procesoch tvárnenia.\

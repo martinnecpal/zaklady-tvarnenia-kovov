@@ -1,4 +1,9 @@
-### VŠEOBECNÉ ZNAKY TECHNOLOGICKÝCH TVÁRECÍCH POCHODOV
+---
+lang: sk-SK
+kapitola: 1.1.2
+---
+
+### VŠEOBECNÉ ZNAKY TECHNOLOGICKÝCH TVÁRNIACÍCH POCHODOV
 V technologických procesoch tvárnenia, ako je kovanie, lisovanie, ohýbanie, valcovanie, ťahanie atď., využívame plastické vlastnosti kovov na výrobu rôznych polotovarov a hotových výrobkov. Zmeny tvaru a rozmerov, ku ktorým dochádza počas týchto procesov, sú spôsobené vonkajšími silami, ktoré vyvolávajú taký stav napätia v tvárnenom telese, že sa prekročí medza klzu materiálu a dochádza k trvalej deformácii v požadovanom smere a veľkosti. Nesmú však byť prekročené napätia, ktoré by narušili súdržnosť kovu. Plastické vlastnosti môžu byť ovplyvnené zahrievaním a napätím, preto je potrebné hovoriť o fyzikálnom stave kovu, v ktorom dochádza k trvalej deformácii.\
 Posun kovových častíc v ich pevnom stave pod vplyvom vonkajších síl vyvíjaných nástrojom má niektoré charakteristiky viskózneho toku tekutiny. Ovplyvňuje ho však kryštalická štruktúra kovu. Preto ho označujeme ako plastický tok kovov. Teoreticky (a vo všeobecnosti aj v praxi) dochádza iba k priestorovému posunu častíc materiálu, takže celkový objem deformovaného materiálu sa nemení. Zákon zachovania objemu je jedným zo základných zákonov pri štúdiu veľkých plastických deformácií.\
 Na rozdiel od fyzikálno-chemických metalurgických procesov nie je tvárnenie kovov teoreticky spojené so stratami materiálu. Avšak povaha samotných procesov tvárnenia znamená, že nie všetok materiál vsádzky sa použije v hotovom výrobku. Časť materiálu sa stráca ako technologický odpad. Pri tvárnení za tepla dochádza k určitým stratám materiálu vsádzky v okuji, ktorá je produktom oxidácie kovu.\

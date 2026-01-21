@@ -1,7 +1,7 @@
 ---
 lang: sk-SK
 kapitola: 1.2.2
-------
+---
 
 ### Klasifikácia tvárniacich pochodov za tepla podľa možného stup%na deformácie
 
