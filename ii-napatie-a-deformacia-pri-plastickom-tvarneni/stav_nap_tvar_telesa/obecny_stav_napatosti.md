@@ -59,7 +59,7 @@ $$
 
 Geometricky táto rovnica predstavuje plochu druhého stupňa pre neznáme kosínusy uhlov smeru. Túto plochu nazývame plochou napätia.
 
-Súradnicový systém $$X, Y, Z$$ znázornený na obr. 7 možno otočiť tak, aby normála $$N$$ k elementárnej rovine zhodovala so smerom výsledného vektora napätia $$$S$$. V tomto špeciálnom prípade bude v uvažovanej elementárnej rovine pôsobiť iba normálne napätie $$\sigma_{\mathrm{n}}$$, zatiaľ čo tangenciálna zložka napätia $$\tau$$ bude rovná nule.
+Súradnicový systém $$X, Y, Z$$ znázornený na obr. 7 možno otočiť tak, aby normála $$N$$ k elementárnej rovine zhodovala so smerom výsledného vektora napätia $$S$$. V tomto špeciálnom prípade bude v uvažovanej elementárnej rovine pôsobiť iba normálne napätie $$\sigma_{\mathrm{n}}$$, zatiaľ čo tangenciálna zložka napätia $$\tau$$ bude rovná nule.
 
 Súradnicové osi s touto orientáciou sa nazývajú hlavné osi a zodpovedajúce normálne napätia v smere týchto osí sa nazývajú hlavné normálne napätia a označujú sa symbolmi $$\sigma_1, \sigma_2, \sigma_3$$.
 
