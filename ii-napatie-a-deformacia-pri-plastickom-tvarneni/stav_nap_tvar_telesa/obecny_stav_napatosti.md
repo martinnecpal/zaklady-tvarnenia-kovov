@@ -14,8 +14,7 @@ V ľubovoľnej rovine v karteziánskom súradnicovom systéme $$X, Y, Z$$, ktor�
 <figure><img src="../../.gitbook/assets/zlozly_nap_v_boe_tel.webp" alt=""><figcaption></figcaption></figure>
 <p align="center">Obr. 6. Zložky napätia v bode telesa</p>
 
-Táto rovina vytvára v pravouhlých súradniciach trojuholník $$a,b,c$$ ktorý je jednou stenou štvorstenu. Predpokladajme, že veľkosť plochy tohto trojuholníka je rovná jednej. Smerové uhly normály $$N$$ plochy trojuholníka určujú sklon zvolenej roviny k súradnicovým osiam a sú $$\alpha_x, \alpha_y, \alpha_z$$.\
-
+Táto rovina vytvára v pravouhlých súradniciach trojuholník $$a,b,c$$ ktorý je jednou stenou štvorstenu. Predpokladajme, že veľkosť plochy tohto trojuholníka je rovná jednej. Smerové uhly normály $$N$$ plochy trojuholníka určujú sklon zvolenej roviny k súradnicovým osiam a sú $$\alpha_x, \alpha_y, \alpha_z$$.
 
 Výsledné sily v uvažovanom bode telesa v smere jednotlivých súradnicových osí sú pri jednotkovej veľkosti šikmej stany štvorstena rovnaké ako napätie v danom smere.Sily v uvažovanom bode telesa teda môžu byť určené z nasledujúcich rovníc:
 
@@ -39,7 +38,7 @@ $$
 \sigma_{\mathrm{n}}=S_{\mathrm{x}} \cdot \cos \alpha_{\mathrm{x}}+S_{\mathrm{y}} \cdot \cos \alpha_{\mathrm{y}}+S_{\mathrm{z}} \cdot \cos \alpha_{\mathrm{z}}
 $$
 
-Pokiaľ dosadíme do tejto rovnice za zložky $S_{\mathrm{x}}, S_{\mathrm{y}}$ a $S_{\mathrm{z}}$ výrazy z rovnice (2.1), dostaneme tento vztah:
+Pokiaľ dosadíme do tejto rovnice za zložky $$S_{\mathrm{x}}, S_{\mathrm{y}}$$ a $$S_{\mathrm{z}}$$ výrazy z rovnice (2.1), dostaneme tento vztah:
 $$
 \begin{aligned}
 \sigma_{\mathrm{n}}= & \left(\sigma_{\mathrm{x}} \cdot \cos \alpha_{\mathrm{x}}+\tau_{\mathrm{yx}} \cdot \cos \alpha_{\mathrm{y}}+\tau_{\mathrm{zx}} \cdot \cos \alpha_{\mathrm{z}}\right) \cdot \cos \alpha_{\mathrm{x}}+ \\
@@ -48,7 +47,7 @@ $$
 \end{aligned}
 $$
 
-Po vyčíslení a úprave, při ktorých dosádzame $\tau_{\mathrm{xy}}=\tau_{\mathrm{yx}} ; \tau_{\mathrm{yz}}=\tau_{\mathrm{zy}} ; \tau_{\mathrm{zx}}=\tau_{\mathrm{xz}}$, dostaneme obecný tvar rovnice pre normálové napätia:
+Po vyčíslení a úprave, při ktorých dosádzame $$\tau_{\mathrm{xy}}=\tau_{\mathrm{yx}} ; \tau_{\mathrm{yz}}=\tau_{\mathrm{zy}} ; \tau_{\mathrm{zx}}=\tau_{\mathrm{xz}}$$, dostaneme obecný tvar rovnice pre normálové napätia:
 $$
 \begin{aligned}
 \sigma_{\mathrm{n}}= & \sigma_{\mathrm{x}} \cdot \cos ^2 \alpha_{\mathrm{x}}+\sigma_{\mathrm{y}} \cdot \cos ^2 \alpha_{\mathrm{y}}+\sigma_{\mathrm{z}} \cdot \cos ^2 \alpha_{\mathrm{z}}+ \\
@@ -60,7 +59,7 @@ $$
 
 Geometricky táto rovnica predstavuje plochu druhého stupňa pre neznáme kosínusy uhlov smeru. Túto plochu nazývame plochou napätia.
 
-Súradnicový systém $$X, Y, Z$$ znázornený na obr. 7 možno otočiť tak, aby normála $N$ k elementárnej rovine zhodovala so smerom výsledného vektora napätia $S$. V tomto špeciálnom prípade bude v uvažovanej elementárnej rovine pôsobiť iba normálne napätie $\sigma_{\mathrm{n}}$, zatiaľ čo tangenciálna zložka napätia $$\tau$$ bude rovná nule.
+Súradnicový systém $$X, Y, Z$$ znázornený na obr. 7 možno otočiť tak, aby normála $$N$$ k elementárnej rovine zhodovala so smerom výsledného vektora napätia $$$S$$. V tomto špeciálnom prípade bude v uvažovanej elementárnej rovine pôsobiť iba normálne napätie $$\sigma_{\mathrm{n}}$$, zatiaľ čo tangenciálna zložka napätia $$\tau$$ bude rovná nule.
 
 Súradnicové osi s touto orientáciou sa nazývajú hlavné osi a zodpovedajúce normálne napätia v smere týchto osí sa nazývajú hlavné normálne napätia a označujú sa symbolmi $$\sigma_1, \sigma_2, \sigma_3$$.
 
@@ -71,8 +70,8 @@ $$
 \end{aligned}
 \tag{2.3}
 $$
-kde $\alpha_1, \alpha_2, \alpha_3$ sú smerové uhly normály vzhľadom k hlavným osiam.
-Pre zložky výsledného napätia $S_1, S_2, S_3$ v smere hlavných os vychádzajú z výrazu $(2,1)$ tieto rovnice:
+kde $$\alpha_1, \alpha_2, \alpha_3$$ sú smerové uhly normály vzhľadom k hlavným osiam.
+Pre zložky výsledného napätia $$S_1, S_2, S_3$$ v smere hlavných os vychádzajú z výrazu (2,1) tieto rovnice:
 $$
 \left.\begin{array}{cc}
 S_1 & \sigma_1 \cdot \cos \alpha_1 \\
