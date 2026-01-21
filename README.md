@@ -14,14 +14,14 @@
 
 ## Napätie a deformácia pri plastickom tvárnení
 
-* [Zvláštnosti mechaniky plastických telies](broken-reference)
-  * [Vnější síly při plastických deformacích](./)
-  * [Působení vnějších sil na tvářený objem tělesa](./)
-  * [Plastická deformace ideálních a reálných materiálů](./)
-* [Stav napjatosti tvářeného tělesa](./)
-  * [Obecný stav napjatosti](./)
-  * [Invariantnost stavu napjatosti](./)
-  * [Hlavní tangenciální napětí](./)
+* [Zvláštnosti mechaniky plastických telies](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/README.md)
+  * [Vnější síly při plastických deformacích](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/vonkajsie_sily.md)
+  * [Působení vnějších sil na tvářený objem tělesa](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/posobenie_vonkajsich_sil.md)
+  * [Plastická deformace ideálních a reálných materiálů](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/plasticka_def_ideal_real.md)
+* [Stav napjatosti tvářeného tělesa](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/README.md)
+  * [Obecný stav napjatosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/obecny_stav_napatosti.md)
+  * [Invariantnost stavu napjatosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/invariantnost_stavu_napatosti.md)
+  * [Hlavní tangenciální napětí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/hlavne_tangencialne_napatia.md)
 * [Napětí v oktaedrických rovinách](./)
   * [Oktaedrické napětí](./)
     * [Objasnění a vyjádření oktaedrického napětí](./)
