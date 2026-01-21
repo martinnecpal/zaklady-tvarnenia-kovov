@@ -20,9 +20,11 @@
   * [Vonkajšie sily pri plastických deformáciách](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/vonkajsie_sily.md)
   * [Pôsobenie vonkajších síľ na tvárnený ojem telesa](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/posobenie_vonkajsich_sil.md)
   * [Plastická deformácia ideálnych a reálnych materálov](ii-napatie-a-deformacia-pri-plastickom-tvarneni/zvlastnosti_mechaniky_plast/plasticka_def_ideal_real.md)
-* [Stav napätosti tvárneného telesa](stav-napatosti-tvarneneho-telesa/README.md)
+* [Stav napätosti tvárneného telesa](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/README.md)
   * [Obecný stav napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/obecny_stav_napatosti.md)
-* [Napätie v oktaedsických rovinách](napatie-v-oktaedsickych-rovinach.md)
-* [Tenzotové vyjadrenie stavu napätosti](tenzotove-vyjadrenie-stavu-napatosti.md)
+  * [Invariantnosť stvu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/invariantnost_stavu_napatosti.md)
+  * [Hlavné tangenciálne napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/hlavne_tangencialne_napatia.md)
+* [Napätie v oktaedrických rovinách](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/README.md)
+* [Tenzorové vyjadrenie stavu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/README.md)
 
 ## III Mechanické podmienky plastičnosti
