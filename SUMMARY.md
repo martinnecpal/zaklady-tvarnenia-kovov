@@ -28,3 +28,17 @@
 * [Tenzorové vyjadrenie stavu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/README.md)
 
 ## III Mechanické podmienky plastičnosti
+
+## X Základy teórie ťahania
+
+* [Podstata a všeobecné znaky ťahania v prievlaku](x-zaklady-teorie-tahania/podstata_a_vseob/README.md)
+* [Napätie a deformácie pri ťahaní v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/README.md)
+  * [Priebeh deformácie v prievlaku]()
+    * [Pružné a plastické deformácie pri ťahaní]()
+  * [Napätie v pásme deformácie pri ťahaní kruhovej tyče]()
+    * [Rozdelenie napätia v pásme deformácie]()
+    * [Vplyv protiťahu pri ťahaní]()
+  * [Veľkosť úberu prierezu pre jeden priechod]()
+* [Výpočet ťažnej sily](x-zaklady-teorie-tahania/vypocet_taznej_sily/README.md)
+  * [Napätia a sily v kužeľovitej časti prievlaku]()
+  * [Napätie a sily vo valcovej časti prievlaku]()
