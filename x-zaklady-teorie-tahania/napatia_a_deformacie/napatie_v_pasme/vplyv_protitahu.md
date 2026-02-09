@@ -1,0 +1,1 @@
+# Vplyv protiťahu pri ťahaní

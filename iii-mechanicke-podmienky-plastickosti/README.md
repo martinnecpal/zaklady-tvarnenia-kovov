@@ -1,0 +1,1 @@
+# Mechanické podmienky plastičnosti

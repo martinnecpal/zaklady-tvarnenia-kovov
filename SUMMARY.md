@@ -29,18 +29,18 @@
 
 ## III Mechanické podmienky plastičnosti
 
-* [Halo]()
+* [Mechanické podmienky plastičnosti](iii-mechanicke-podmienky-plastickosti/README.md)
 
 ## X Základy teórie ťahania
 
-* [Podstata a všeobecné znaky ťahania v prievlaku]()
-* [Napätie a deformácie pri ťahaní v prievlaku]()
-  * [Priebeh deformácie v prievlaku]()
-    * [Pružné a plastické deformácie pri ťahaní]()
-  * [Napätie v pásme deformácie pri ťahaní kruhovej tyče]()
-    * [Rozdelenie napätia v pásme deformácie]()
-    * [Vplyv protiťahu pri ťahaní]()
-  * [Veľkosť úberu prierezu pre jeden priechod]()
-* [Výpočet ťažnej sily]()
-  * [Napätia a sily v kužeľovitej časti prievlaku]()
-  * [Napätie a sily vo valcovej časti prievlaku]()
+* [Podstata a všeobecné znaky ťahania v prievlaku](x-zaklady-teorie-tahania/podstata_a_vseob/README.md)
+* [Napätie a deformácie pri ťahaní v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/README.md)
+  * [Priebeh deformácie v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/priebeh_deformacie/README.md)
+    * [Pružné a plastické deformácie pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/priebeh_deformacie/pruzne_a_plasticke.md)
+  * [Napätie v pásme deformácie pri ťahaní kruhovej tyče](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/README.md)
+    * [Rozdelenie napätia v pásme deformácie](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/rozdelenie_napatia.md)
+    * [Vplyv protiťahu pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/vplyv_protitahu.md)
+  * [Veľkosť úberu prierezu pre jeden priechod](x-zaklady-teorie-tahania/napatia_a_deformacie/velkost_uberu.md)
+* [Výpočet ťažnej sily](x-zaklady-teorie-tahania/vypocet_taznej_sily/README.md)
+  * [Napätia a sily v kužeľovitej časti prievlaku](x-zaklady-teorie-tahania/vypocet_taznej_sily/napatia_kuzelovita.md)
+  * [Napätie a sily vo valcovej časti prievlaku](x-zaklady-teorie-tahania/vypocet_taznej_sily/napatie_valcova.md)
