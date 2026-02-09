@@ -35,8 +35,8 @@
 
 * [Podstata a všeobecné znaky ťahania v prievlaku](x-zaklady-teorie-tahania/podstata_a_vseob/README.md)
 * [Napätie a deformácie pri ťahaní v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/README.md)
-  * [Priebeh deformácie v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/priebeh_deformacie/README.md)
-    * [Pružné a plastické deformácie pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/priebeh_deformacie/pruzne_a_plasticke.md)
+  * [Priebeh deformácie v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/priebeh_deformacie.md)
+    * [Pružné a plastické deformácie pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/pruzne_a_plasticke.md)
   * [Napätie v pásme deformácie pri ťahaní kruhovej tyče](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/README.md)
     * [Rozdelenie napätia v pásme deformácie](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/rozdelenie_napatia.md)
     * [Vplyv protiťahu pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/vplyv_protitahu.md)
