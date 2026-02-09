@@ -1,1 +1,0 @@
-# Priebeh deformácie v prievlaku
