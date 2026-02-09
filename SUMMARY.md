@@ -29,16 +29,18 @@
 
 ## III Mechanické podmienky plastičnosti
 
+* [Halo]()
+
 ## X Základy teórie ťahania
 
-* [Podstata a všeobecné znaky ťahania v prievlaku](x-zaklady-teorie-tahania/podstata_a_vseob/README.md)
-* [Napätie a deformácie pri ťahaní v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/README.md)
+* [Podstata a všeobecné znaky ťahania v prievlaku]()
+* [Napätie a deformácie pri ťahaní v prievlaku]()
   * [Priebeh deformácie v prievlaku]()
     * [Pružné a plastické deformácie pri ťahaní]()
   * [Napätie v pásme deformácie pri ťahaní kruhovej tyče]()
     * [Rozdelenie napätia v pásme deformácie]()
     * [Vplyv protiťahu pri ťahaní]()
   * [Veľkosť úberu prierezu pre jeden priechod]()
-* [Výpočet ťažnej sily](x-zaklady-teorie-tahania/vypocet_taznej_sily/README.md)
+* [Výpočet ťažnej sily]()
   * [Napätia a sily v kužeľovitej časti prievlaku]()
   * [Napätie a sily vo valcovej časti prievlaku]()
