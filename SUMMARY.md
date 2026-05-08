@@ -25,6 +25,14 @@
   * [Invariantnosť stvu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/invariantnost_stavu_napatosti.md)
   * [Hlavné tangenciálne napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/hlavne_tangencialne_napatia.md)
 * [Napätie v oktaedrických rovinách](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/README.md)
+  * [Oktaedrické napätie](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/README.md)
+    * [Objasnenie a vyjadrenie oktaedrického napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/oktaedricke_napatie/objasnenie_a_vyjadrenie.md)
+    * [Oktaedrické napätie v cylindrických súradniciach](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/oktaedricke_napatie/oktaedricke_napatie_v_cylindrických_suradniciach.md)
+  * [Redukované napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/redukovane_napatia.md)
+  * [Intenzita napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/README.md)
+    * [Poloha vektorov intenzity v stene oktaedru](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/poloha_vektorov_intenzitz.md)
+    * [Rozbor intenzity napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/rozbor_intenzity_napatia.md)
+    * [Grafické stanovenie intenzity napätí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/graficke_tanovenie_intenzity_napatia.md)  
 * [Tenzorové vyjadrenie stavu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/README.md)
 
 ## III Mechanické podmienky plastičnosti
