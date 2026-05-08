@@ -25,7 +25,7 @@
   * [Invariantnosť stvu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/invariantnost_stavu_napatosti.md)
   * [Hlavné tangenciálne napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/stav_nap_tvar_telesa/hlavne_tangencialne_napatia.md)
 * [Napätie v oktaedrických rovinách](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/README.md)
-  * [Oktaedrické napätie](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/README.md)
+  * [Oktaedrické napätie](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/oktaedricke_napatie/README.md)
     * [Objasnenie a vyjadrenie oktaedrického napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/oktaedricke_napatie/objasnenie_a_vyjadrenie.md)
     * [Oktaedrické napätie v cylindrických súradniciach](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/oktaedricke_napatie/oktaedricke_napatie_v_cylindrických_suradniciach.md)
   * [Redukované napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/redukovane_napatia.md)
