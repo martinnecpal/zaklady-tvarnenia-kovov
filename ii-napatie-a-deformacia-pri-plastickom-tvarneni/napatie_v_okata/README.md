@@ -7,5 +7,4 @@ kapitola: 2.3
 
 Matematické skúmanie plastických deformácií možno vyjadriť jednoduchými vzorcami, ktoré platia pre plochu pravidelného osemstenu. Matematické vzorce pre stav napätia, deformácie a rýchlosti deformácie na tejto ploche plne vystihujú uvedené všeobecné stavy. Preto v teórii plasticity zavádzame tieto pomocné veličiny: oktaedrové napätie (deformacie, rýchlosť def
 
-
-  * [Oktaedricke napätie](oktaedricke_napatie/README.md)
+* [Oktaedricke napätie](oktaedricke_napatie/README.md)
