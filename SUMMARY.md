@@ -32,7 +32,7 @@
   * [Intenzita napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/README.md)
     * [Poloha vektorov intenzity v stene oktaedru](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/poloha_vektorov_intenzitz.md)
     * [Rozbor intenzity napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/rozbor_intenzity_napatia.md)
-    * [Grafické stanovenie intenzity napätí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/graficke_tanovenie_intenzity_napatia.md)  
+    * [Grafické stanovenie intenzity napätí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/graficke_tanovenie_intenzity_napatia.md)
 * [Tenzorové vyjadrenie stavu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/README.md)
 
 ## III Mechanické podmienky plastičnosti
@@ -45,9 +45,9 @@
 * [Napätie a deformácie pri ťahaní v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/README.md)
   * [Priebeh deformácie v prievlaku](x-zaklady-teorie-tahania/napatia_a_deformacie/priebeh_deformacie.md)
     * [Pružné a plastické deformácie pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/pruzne_a_plasticke.md)
-  * [Napätie v pásme deformácie pri ťahaní kruhovej tyče](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/README.md)
-    * [Rozdelenie napätia v pásme deformácie](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/rozdelenie_napatia.md)
-    * [Vplyv protiťahu pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie_v_pasme/vplyv_protitahu.md)
+  * [Napätie v pásme deformácie pri ťahaní kruhovej tyče](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie-v-pasme-deformacie-pri-tahani-kruhovej-tyce/README.md)
+    * [Rozdelenie napätia v pásme deformácie](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie-v-pasme-deformacie-pri-tahani-kruhovej-tyce/rozdelenie-napatia-v-pasme-deformacie.md)
+    * [Vplyv protiťahu pri ťahaní](x-zaklady-teorie-tahania/napatia_a_deformacie/napatie-v-pasme-deformacie-pri-tahani-kruhovej-tyce/vplyv-protitahu-pri-tahani.md)
   * [Veľkosť úberu prierezu pre jeden priechod](x-zaklady-teorie-tahania/napatia_a_deformacie/velkost_uberu.md)
 * [Výpočet ťažnej sily](x-zaklady-teorie-tahania/vypocet_taznej_sily/README.md)
   * [Napätia a sily v kužeľovitej časti prievlaku](x-zaklady-teorie-tahania/vypocet_taznej_sily/napatia_kuzelovita.md)
