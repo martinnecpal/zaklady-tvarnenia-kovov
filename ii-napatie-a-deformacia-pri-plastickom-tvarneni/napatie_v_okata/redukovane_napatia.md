@@ -59,9 +59,9 @@ Tieto výrazy použijeme ako základ pre grafické určenie redukovaných napät
 <figure><img src="../../.gitbook/assets/obr10.png" alt=""><figcaption></figcaption></figure>
 <p align="center">Obr. 10. Grafické stanovenie redukovaných napätí</p>
 
-Úsečka $\overline{O P}$ znázorňuje oktaedrické napätie $\sigma_s$. Pravoúhle prierezy dvoch tretín tohto úseku, $\overline{O B}=\frac{2}{3} \overline{O P}$, na súradnicových osiach $1,2,3$, priamo udávajú veľkosť redukovaných napätí $s_1, s_2, s_3$.
+Úsečka $$\overline{O P}$$ znázorňuje oktaedrické napätie $$\sigma_s$$. Pravoúhle prierezy dvoch tretín tohto úseku, $$\overline{O B}=\frac{2}{3} \overline{O P}$$, na súradnicových osiach $$1,2,3$$, priamo udávajú veľkosť redukovaných napätí $$s_1, s_2, s_3$$.
 
-T. Pelczynský použil uvedené vzťahy pre redukované napätia na zostavenie „polárneho diagramu redukovaných napätí“. Tento diagram, znázornený na obr. 11, označovaný tiež ako „hviezdicový diagram napätí“, určuje priamo pre dané hlavné napätia $\sigma_1, \sigma_2, \sigma_3$ nielen veľkosti redukovaných napätí, ale aj smerový uhol $\omega_\sigma$ oktaedrických napätí. Diagram zostavíme tak, že zo stredu $A$, ktorého vzdialenosť od počiatku súradníc $O$ je $\overline{O A}=\sigma_8$, opíšeme kružnicu s polomerom $\frac{2}{3} \cdot \sigma_8$. Súradnice v koncových bodoch $\sigma_{1,} \sigma_{2,} \sigma_3$ pretínajú túto kružnicu v bodoch $1,2,3$, ktoré určujú veľkosti $s_1, s_2, s_3$ a uhol $\omega_\sigma$.
+T. Pelczynský použil uvedené vzťahy pre redukované napätia na zostavenie „polárneho diagramu redukovaných napätí“. Tento diagram, znázornený na obr. 11, označovaný tiež ako „hviezdicový diagram napätí“, určuje priamo pre dané hlavné napätia $$\sigma_1, \sigma_2, \sigma_3$$ nielen veľkosti redukovaných napätí, ale aj smerový uhol $$\omega_\sigma$$ oktaedrických napätí. Diagram zostavíme tak, že zo stredu $$A$$, ktorého vzdialenosť od počiatku súradníc $$O$$ je $$\overline{O A}=\sigma_8$$, opíšeme kružnicu s polomerom $$\frac{2}{3} \cdot \sigma_8$$. Súradnice v koncových bodoch $$\sigma_{1,} \sigma_{2,} \sigma_3$$ pretínajú túto kružnicu v bodoch $$1,2,3$$, ktoré určujú veľkosti $$s_1, s_2, s_3$$ a uhol $$\omega_\sigma$$.
 
 <figure><img src="../../.gitbook/assets/obr11.png" alt=""><figcaption></figcaption></figure>
 <p align="center">Obr. 11. Hviezdicový diagram napätí</p>

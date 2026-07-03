@@ -9,9 +9,10 @@ kapitola: 2.3.3
 * [Rozbor intenzity napätia](intenzita_napatia/rozbor_intenzity_napatia.md)
 * [Grafické stanovenie intenzity napätí](intenzita_napatia/graficke_tanovenie_intenzity_napatia.md)  
 
-Intenzita napětí vyjadřuje současný účinek jednotlivých složek stavu napjatosti v určitém bodě tělesa. Geometricky posuzováno je to výsledný vektor napětí, který je přimo vektorovým součtem hlavních normálných napětí v oktaedrické rovině. Její velikost je možno počítat jak $z$ hlavních normálných, tak $z$ hlavních tangenciálních napětí. Protože velikost i polohu vektoru intenzity napětí určujeme v oktaedrické rovině, která je rovinou vektoru oktaedrického tangenciálního napětí, jde vlastně o vektor intenzity tangenciálních (smykových) napětí.
+Intenzita napätia vyjadruje súčasný vplyv jednotlivých zložiek napäťového stavu v určitom bode telesa. Z geometrického hľadiska ide o výsledný vektor napätia, ktorý je priamo vektorovým súčtom hlavných normálnych napätí v oktaedrickej rovine. Jeho veľkosť je možné vypočítať ako z hlavných normálnych, tak aj z hlavných tangenciálnych napätí. Keďže veľkosť aj polohu vektora intenzity napätia určujeme v oktaedrickej rovine, ktorá je rovinou vektora oktaedrického tangenciálneho napätia, ide v skutočnosti o vektor intenzity tangenciálnych (šmykových) napätí.
 
 Geometrické objasnění vektoru intenzity tangenciálních napětí je zřejmé z obr. 12. Osy 1', $2^{\prime}, 3^{\prime}$, které jsou průmětem hlavních os do oktaedrické roviny, svírají spolu úhly $120^{\circ}$. Na tyto osy vynášíme velikosti hlavních normálných napětí $\sigma_{1,} \sigma_2, \sigma_3$. Průměty napětí $\sigma_2$ a $\sigma_3$ do směru napětí $\sigma_1$ mají velikost
+
 $$
 \sigma_2 \cdot \cos 60^{\circ}+\sigma_3 \cdot \cos 60^{\circ}=\frac{\sigma_2+\sigma_3}{2}
 $$
