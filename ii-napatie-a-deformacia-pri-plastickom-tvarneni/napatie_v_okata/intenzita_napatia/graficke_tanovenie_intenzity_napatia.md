@@ -207,5 +207,5 @@ S_{\sigma \min } & \frac{\sigma_1-\sigma_3}{1,155}
 \end{array}
 $$
 
-Z geometrického znázornenia je zrejmé, že uhol $$\omega_\sigma$$ sa môže meniť v rozmedzí od 0 do $$60^{\circ}$$. Pritom sa intenzita napätia mení od jedného maxima $$S_{\sigma \max }=\left(\sigma_1-\sigma_3\right)$$ po minimum $$\left.S_{\sigma \min } \quad \begin{array}{ll}\frac{1}{2} & \left(\sigma_1\right.\ end{array}-\sigma_3\right)$$ pri $$\omega_\sigma=30$$ a ďalej opäť k maximu $$S_{\sigma \max }=\left(\sigma_1-\sigma_3\right)$$.
+Z geometrického znázornenia je zrejmé, že uhol $$\omega_\sigma$$ sa môže meniť v rozmedzí od 0 do $$60^{\circ}$$. Pritom sa intenzita napätia mení od jedného maxima $$S_{\sigma \max }=\left(\sigma_1-\sigma_3\right)$$ po minimum $$S_{\sigma \min }=\frac{\sqrt{3}}{2} \cdot\left(\sigma_1-\sigma_3\right)$$ pri $$\omega_\sigma=30^{\circ}$$ a ďalej opäť k maximu $$S_{\sigma \max }=\left(\sigma_1-\sigma_3\right)$$.
 Tieto teoretické poznatky pomerne dobre súhlasia s experimentálne zistenými hodnotami a majú významný význam pre energetické podmienky plasticity.
