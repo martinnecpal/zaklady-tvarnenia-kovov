@@ -34,6 +34,13 @@
     * [Rozbor intenzity napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/rozbor_intenzity_napatia.md)
     * [Grafické stanovenie intenzity napätí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/napatie_v_okata/intenzita_napatia/graficke_tanovenie_intenzity_napatia.md)
 * [Tenzorové vyjadrenie stavu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/README.md)
+  * [Tenzor a deviátor napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/tenzor_a_deviator_nap.md)
+  * [Schéma hlavných napätí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/schema_hl_nap.md)
+  * [Deviátorová schéma napätia](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/deviator_schema_nap.md)
+  * [Hodnotenie stavu naptosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/hodnotenie_st_nap/README.md)
+    * [Ukazateľ stavu napätosti](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/hodnotenie_st_nap/ukazovatel_stavu_nap.md)
+    * [Pomerné oktaedrické napätie](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/hodnotenie_st_nap/pomerne_oktaedricke.md)
+    * [Graf tenzorov pomerných hlavných normálových napätí](ii-napatie-a-deformacia-pri-plastickom-tvarneni/tenzorove_vyjadrenie_stavu_napatosti/hodnotenie_st_nap/graf_tenzorov.md)
 
 ## III Mechanické podmienky plastičnosti
 
