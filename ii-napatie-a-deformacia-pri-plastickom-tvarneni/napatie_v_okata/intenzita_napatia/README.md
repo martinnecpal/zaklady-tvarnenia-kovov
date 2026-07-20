@@ -5,9 +5,9 @@ kapitola: 2.3.3
 
 ### Intenzita napätia
     
-* [Poloha vektorov intenzity v stene oktaedru](intenzita_napatia/poloha_vektorov_intenzitz.md)
-* [Rozbor intenzity napätia](intenzita_napatia/rozbor_intenzity_napatia.md)
-* [Grafické stanovenie intenzity napätí](intenzita_napatia/graficke_tanovenie_intenzity_napatia.md)  
+* [Poloha vektorov intenzity v stene oktaedru](poloha_vektorov_intenzitz.md)
+* [Rozbor intenzity napätia](rozbor_intenzity_napatia.md)
+* [Grafické stanovenie intenzity napätí](graficke_tanovenie_intenzity_napatia.md)  
 
 Intenzita napätia vyjadruje súčasný vplyv jednotlivých zložiek napäťového stavu v určitom bode telesa. Z geometrického hľadiska ide o výsledný vektor napätia, ktorý je priamo vektorovým súčtom hlavných normálnych napätí v oktaedrickej rovine. Jeho veľkosť je možné vypočítať ako z hlavných normálnych, tak aj z hlavných tangenciálnych napätí. Keďže veľkosť aj polohu vektora intenzity napätia určujeme v oktaedrickej rovine, ktorá je rovinou vektora oktaedrického tangenciálneho napätia, ide v skutočnosti o vektor intenzity tangenciálnych (šmykových) napätí.
 
