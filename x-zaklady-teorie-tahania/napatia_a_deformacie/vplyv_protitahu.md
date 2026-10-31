@@ -12,7 +12,7 @@ $$  k_d\equiv\sigma_K=\sigma_1+\sigma_r$$
 Z diagramu je zrejmé, že podiel pozdĺžneho napätia sa po dĺžke pásma deformácie zväčšuje a podiel radiálneho napätia zmenšuje. Ich súčet sa však vždy rovná okamžité medzi klzu . Ak pôsobí na zadný koniec tyče spätný ťah $$P_d$$, vyvolá sa v priečnom  priereze doplnkové ťahové napätie $$\sigma_d$$ . Pretože súčet pozdĺžnych a radiálnych napätí sa rovná medze klzu, zmenší sa tým podiel radiálneho napätia $$\sigma_{rd}=\sigma_K-(\sigma_1+\sigma_d)$$
 Ak pôsobí na tyč zpätný ťah, priebeh napätia v pásme deformácie je schematicky znázornený na obr. 267. Z diagramu je zrejmé, že radiáne napätie $$\sigma_{rd}$$ v ľubovolnom priečnom reze $X - X$ je podstatne menšie ako radiálne napätie $\sigma_r$ bez protiťahu.
 
-<figure><img src="../../.gitbook/assets/napatie_s_protitahom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deformacny_odpor.svg" alt=""><figcaption></figcaption></figure>
 <p align="center">Obr. 267. Zmena napätia v pásme deformácie pri ťahaní s protiťahom</p>
 
 Na veľkosti radiálneho napätia na povrchu ťahanej tyče závisí veľkosť povrchových a tangenciálnych napätí, $$\tau_K$$ ktoré predstavujú trecie sily, $$\tau_K = \mu\cdot\sigma_T$$. Ak sa zmenší účinok doplnkových ťahových napätí $$\sigma_d$$ radiálne napätie, zmenšia sa trecie sily na dotykovej ploche prievlaku, a tým i jeho opotrebenie. V tomto je praktický význam ťahania s protiťahom. Ďalší význam protiťahu je v tom, že v ťahanej tyči sú hneď od počiatku pásma deformácie $$A - A$$$ len ťahové napätia, odstráni sa počiatočný úsek pásma deformácie s tlakovým pozdĺžnym napätím.
